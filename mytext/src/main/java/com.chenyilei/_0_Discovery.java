@@ -2,6 +2,8 @@ package com.chenyilei;
 
 /**
  * 注释
+ * {@link org.springframework.cloud.zookeeper.discovery.ZookeeperDiscoveryAutoConfiguration}
+ * {@link org.springframework.cloud.zookeeper.discovery.ZookeeperDiscoveryClientConfiguration}
  *
  * @author qingshi
  * @email 705029004@qq.com

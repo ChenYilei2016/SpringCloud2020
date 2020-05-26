@@ -3,7 +3,7 @@ package com.chenyilei;
 import org.springframework.cloud.bus.endpoint.RefreshBusEndpoint;
 
 /**
- * 注释
+ * 注释 rocketmq bus https://blog.csdn.net/yunqiinsight/article/details/89309419
  * {@link org.springframework.cloud.context.config.annotation.RefreshScope}
  * {@link RefreshBusEndpoint}
  *
