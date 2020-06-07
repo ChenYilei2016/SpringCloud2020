@@ -19,6 +19,7 @@ spring:
           output: # 这个名字是一个通道的名称
             destination: studyExchange # 表示要使用的Exchange名称定义
             content-type: application/json # 设置消息类型，本次为json，文本则设置“text/plain”
+#            group: groupA
 #            binder: defaultRabbit # 设置要绑定的消息服务的具体设置
   rabbitmq:
     host: localhost

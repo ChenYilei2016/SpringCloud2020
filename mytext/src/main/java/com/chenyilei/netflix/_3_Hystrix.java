@@ -1,4 +1,4 @@
-package com.chenyilei;
+package com.chenyilei.netflix;
 
 /**
  * {@link com.netflix.hystrix.HystrixCommandProperties}

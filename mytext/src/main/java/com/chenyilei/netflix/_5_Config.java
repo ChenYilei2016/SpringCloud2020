@@ -1,4 +1,4 @@
-package com.chenyilei;
+package com.chenyilei.netflix;
 
 /**
  * 注释
@@ -7,5 +7,5 @@ package com.chenyilei;
  * @email 705029004@qq.com
  * @date 2020/05/21 10:30 下午
  */
-public class _4_Gateway {
+public class _5_Config {
 }

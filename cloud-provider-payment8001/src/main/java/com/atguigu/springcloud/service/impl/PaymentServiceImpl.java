@@ -20,11 +20,11 @@ public class PaymentServiceImpl implements PaymentService
 
     public int create(Payment payment)
     {
-        return paymentDao.create(payment);
+        return 1;
     }
 
     public Payment getPaymentById(Long id)
     {
-        return paymentDao.getPaymentById(id);
+        return new Payment();
     }
 }

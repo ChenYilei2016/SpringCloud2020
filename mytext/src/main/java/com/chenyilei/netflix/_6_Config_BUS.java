@@ -1,4 +1,4 @@
-package com.chenyilei;
+package com.chenyilei.netflix;
 
 import org.springframework.cloud.bus.endpoint.RefreshBusEndpoint;
 
