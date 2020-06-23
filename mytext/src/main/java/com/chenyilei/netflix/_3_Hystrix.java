@@ -1,6 +1,9 @@
 package com.chenyilei.netflix;
 
+import com.netflix.hystrix.contrib.javanica.aop.aspectj.HystrixCommandAspect;
+
 /**
+ * {@link HystrixCommandAspect} 切面
  * {@link com.netflix.hystrix.HystrixCommandProperties}
  * 降级
  * @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "5000")
